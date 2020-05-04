@@ -186,6 +186,7 @@ main {
     height: 50px;
     width: 50px; }
 
+/* EFFECT ZOOM SUR LES 4 MENUS */
 .divZoom {
   transition: transform 300ms, opacity 250ms 50ms;
   width: 100%;
